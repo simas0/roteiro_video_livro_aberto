@@ -5,26 +5,19 @@ Estamos vivendo o que alguns já estão chamando de “A Era do Compartilhamento
 
 O uso da tecnologia evoluiu de tal modo que hoje podemos compartilhar quase tudo: 
 produtos, serviços, meio de transporte, espaços e até dinheiro. Tudo disponível a um 
-clique de distãncia. O conceito de propriedade vem sendo transformando à medida 
+clique de distância. O conceito de propriedade vem sendo repensado na medida 
 em que as pessoas compartilham.
 
 Agora imagine se você, professor, pudesse compartilhar suas ideias com todos os professores 
 do mundo… se tivesse a possibilidade de se conectar e compartilhar aquela sua aula revolucionária 
-sobre um determinado conteúdo ou até mesmo buscar ideias para melhorar aquela outra aula que não é 
+sobre um determinado assunto ou até mesmo buscar ideias para melhorar aquela outra aula que não é 
 tão legal assim.
 
 Agora imagine tudo isso acontecendo dentro do livro didático!
 
 Essa é a proposta do Livro Aberto de Matemática. Um projeto que envolve professores de Matemática 
-da Educação Básica e Superior para produzir uma coleção de livros didáticos com código aberto.
+da Educação Básica e Superior, além de intusiastas, para produzir uma coleção de livros didáticos com código aberto.
 
-A principal ideia é disponibilizar e compartilhar várias partes ou unidades do saber, que podem ser remixadas, 
-traduzidas e adaptadas para finalidades educacionais, como as peças de um grande quebra-cabeças, transformando a 
-forma como a educação é pensada e desenvolvida.
+A ideia é que todo conteúdo produzido fique disponível para visualização, distribuição, download, cópia e até mesmo para edição de toda a comunidade! As edições da versão oficial passam pela revisão de professores especializados. Mas se você quiser baixar este material para modificar e ter a sua versão personalizada, sinta-se à vontade <<nesta parte deve aparecer um texto dizendo "confira os termos de nossa licença no site umlivroaberto.com">>. Deixe no Fórum de Discussões a sua opinião, comentários ou as suas experiências na sala de aula com este material. Mas não pode parar por aí. Cada vez que alguém compartilha as suas contribuições, o Livro se aperfeiçoa.
 
-Ao abrir o Livro Aberto de Matemática você poderá, além aprender e aplicar as atividades, fazer propostas baseadas 
-na sua experiência em sala de aula e criar assim uma versão personalizada do livro didático. Dessa maneira, você 
-passa a ser um co-autor dessa obra.
-
-Mas não pode parar por aí. Depois de colaborar com a obra é a sua vez de compartilhar. E cada vez que alguém 
-compartilha as suas contribuições, o Livro se aperfeiçoa.
+Nós acreditamos na educação como um bem comum de construção coletiva. Portanto, os recursos educacionais devem ser acessível a todos!
