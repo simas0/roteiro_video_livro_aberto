@@ -1,5 +1,5 @@
 # roteiro_video_livro_aberto
-Texto para o roteiro do livro aberto
+Texto para o roteiro do video de apresentação do livro aberto
 
 Estamos vivendo o que alguns já estão chamando de “A Era do Compartilhamento”. 
 
